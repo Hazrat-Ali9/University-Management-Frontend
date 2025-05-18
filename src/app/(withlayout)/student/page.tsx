@@ -5,5 +5,5 @@ const StudentPage = () => {
     </div>
   );
 };
-
+// Student Page
 export default StudentPage;
