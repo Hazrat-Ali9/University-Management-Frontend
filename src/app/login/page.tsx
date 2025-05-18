@@ -5,7 +5,7 @@ import Image from "next/image";
 import Form from "@/components/Forms/Form";
 import FormInput from "@/components/Forms/FormInput";
 import { SubmitHandler } from "react-hook-form";
-
+// login Page
 type FormValues = {
   id: string;
   password: string;
