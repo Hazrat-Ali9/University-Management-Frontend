@@ -1,5 +1,5 @@
 "use client";
-// from input
+// From input
 import { Input } from "antd";
 import { useFormContext, Controller } from "react-hook-form";
 interface IInput {
