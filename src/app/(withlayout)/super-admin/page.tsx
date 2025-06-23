@@ -5,5 +5,5 @@ const SuperAdminPage = () => {
     </div>
   );
 };
-// super admin page
+// Super Admin Page
 export default SuperAdminPage;
