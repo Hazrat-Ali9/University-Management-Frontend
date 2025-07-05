@@ -1,5 +1,5 @@
 "use client";
-// sidebar
+// Sidebar
 import { useState } from "react";
 import { Layout, Menu } from "antd";
 
