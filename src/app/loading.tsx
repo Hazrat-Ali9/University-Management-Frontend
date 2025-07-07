@@ -5,5 +5,5 @@ const Loading = () => {
     </div>
   );
 };
-//Loading
+// Loading
 export default Loading;
