@@ -2,4 +2,4 @@ export const reducer = {
     
 }
 
-// Root Reducer
+// root Reducer
