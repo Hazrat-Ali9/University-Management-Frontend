@@ -5,5 +5,5 @@ const Loading = () => {
     </div>
   );
 };
-// Loading
+// Loading tsx
 export default Loading;
