@@ -5,5 +5,5 @@ const NotFoundPage = () => {
     </div>
   );
 };
-// Not Found
+// Not found
 export default NotFoundPage;
